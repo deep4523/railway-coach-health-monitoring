@@ -1,0 +1,11 @@
+Temperature,Vibration,Door_Status
+28,0.2,Closed
+35,0.6,Closed
+45,1.2,Open
+30,0.3,Closed
+42,0.9,Closed
+25,0.1,Closed
+50,1.5,Open
+38,0.7,Closed
+41,1.1,Closed
+29,0.4,Closed
