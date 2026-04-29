@@ -5,7 +5,7 @@ This project is a simple and interactive dashboard developed using Streamlit to 
 ## 📌 Features
 - Displays coach data in a structured table  
 - Detects faults based on predefined conditions  
-- Classifies coach status as "Healthy" or "Maintenance Required"  
+- Classifies coach status as "Healthy" or "Maintenance Required" 
 - Provides interactive input controls for real-time checking  
 - Visualizes data using line and bar charts  
 
